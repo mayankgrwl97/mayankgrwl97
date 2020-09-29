@@ -3,10 +3,8 @@
 - 🔭 I’m a Deep Learning Engineer at [Flixstock](https://flixstock.com/)
 - :nerd_face: I read, implement and improvise research papers to solve exciting business problems
 - 🌱 I’m currently learning Full Stack Machine Learning and Machine Learning Ops
-- :green_book: I'm currently reading [Almanack of Naval Ravikant](https://www.navalmanack.com/)
-- :books: I read [AI Superpowers](https://www.goodreads.com/book/show/38242135-ai-superpowers) before this
 - ✍️ I write blogs at [Medium](https://medium.com/@mayankgrwl97)
-- 📫 I'm reachable [here](https://twitter.com/mayankgrwl97) and [here](https://www.linkedin.com/in/mayankgrwl97/)
+- 📫 I'm reachable on [Twitter](https://twitter.com/mayankgrwl97) and [LinkedIn](https://www.linkedin.com/in/mayankgrwl97/)
 
 <!--
 **mayankgrwl97/mayankgrwl97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
