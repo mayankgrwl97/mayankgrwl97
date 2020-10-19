@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m a Deep Learning Engineer at [Flixstock](https://flixstock.com/)
-- :nerd_face: I read, implement and improvise research papers to solve exciting business problems
+- :nerd_face: I read, implement and improve research papers to solve exciting business problems
 - 🌱 I’m currently learning Full Stack Machine Learning and Machine Learning Ops
 - ✍️ I write blogs at [Medium](https://medium.com/@mayankgrwl97)
 - 📫 I'm reachable on [Twitter](https://twitter.com/mayankgrwl97) and [LinkedIn](https://www.linkedin.com/in/mayankgrwl97/)
