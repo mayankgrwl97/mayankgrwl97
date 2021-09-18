@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m a MS in Computer Vision student at Carnegie Mellon University
-- :nerd_face: I read, implement and improve research papers to solve exciting business problems
-- 🌱 I’m currently learning Full Stack Machine Learning and Machine Learning Ops
+- :office: Previously, I was a deep learning engineer at [Flixstock](https://www.flixstock.com)
+- :nerd_face: I like reading and implementing research papers to solve exciting practical usecases
+<!-- - 🌱 I’m currently learning Full Stack Machine Learning and Machine Learning Ops -->
 - ✍️ I write blogs at [Medium](https://medium.com/@mayankgrwl97)
 - 📫 I'm reachable on [Twitter](https://twitter.com/mayankgrwl97) and [LinkedIn](https://www.linkedin.com/in/mayankgrwl97/)
 
