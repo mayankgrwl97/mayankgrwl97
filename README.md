@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a Deep Learning Engineer at [Flixstock](https://flixstock.com/)
+- 🔭 I’m a MS in Computer Vision student at Carnegie Mellon University
 - :nerd_face: I read, implement and improve research papers to solve exciting business problems
 - 🌱 I’m currently learning Full Stack Machine Learning and Machine Learning Ops
 - ✍️ I write blogs at [Medium](https://medium.com/@mayankgrwl97)
