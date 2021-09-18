@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a MS in Computer Vision student at Carnegie Mellon University
+- 🔭 I am a MS in Computer Vision student at Carnegie Mellon University
 - :office: Previously, I was a deep learning engineer at [Flixstock](https://www.flixstock.com)
 - :nerd_face: I like reading and implementing research papers to solve exciting practical usecases
 <!-- - 🌱 I’m currently learning Full Stack Machine Learning and Machine Learning Ops -->
